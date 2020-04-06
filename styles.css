@@ -6,7 +6,7 @@
     width: 80vw;
 }
 
-.c-button .c-button--primary {
+.c-button.c-button--primary {
     background-color: #ec6607;
     color: #fff;
     box-shadow: 0 0 0 0;
