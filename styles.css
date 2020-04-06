@@ -1,3 +1,17 @@
-p {
-  color: red;
+.navbar-top .container-navbar {
+    height: 100%;
+    background: linear-gradient(90deg,#ec6608,#e40429);
+}
+
+.navbar-top .logo {
+    width: 100%;
+    max-width: 120px;
+    height: 100%;
+    background-image: url(https://www.cz.nl/resources/cz/images/logo.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 29px;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
