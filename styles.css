@@ -6,12 +6,20 @@
 .navbar-top .logo {
     width: 100%;
     max-width: 120px;
-    height: 100%;
+    height: 100px;
     background-image: url(https://www.cz.nl/resources/cz/images/logo.svg);
     background-repeat: no-repeat;
-    position: absolute;
+    position: relative;
     top: 29px;
     left: 50%;
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 110px;
+    width: 80vw;
 }
