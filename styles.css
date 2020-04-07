@@ -13,9 +13,9 @@
 .c-button.c-button--primary {
     background-color: #ec6607;
     color: #fff;
-    box-shadow: 0 0 0 0 !important;
-    border-radius: .25em;
-    padding: 12px 13px;
+    box-shadow: 0 3px 0 0 #C85402;
+    border-radius: 6px;
+    padding: 13px 18px 13px 18px;
     line-height: 18px;
-    margin-top: 20px;
+    margin-top: 43px;
 }
