@@ -9,13 +9,24 @@
     margin-top: 110px;
     width: 80vw;
 }
+.c-hero__title {
+    font-size: 24px;
+}
+
+.like-p, p {
+    font-size: 20px;
+}
 
 .c-button.c-button--primary {
     background-color: #ec6607;
     color: #fff;
-    box-shadow: 0 3px 0 0 #C85402;
     border-radius: 6px;
     padding: 13px 18px 13px 18px;
     line-height: 18px;
     margin-top: 43px;
+}
+
+.c-button--primary:not(.c-button--flat):not(.c-search-form__querybox__button) {
+    -webkit-box-shadow: 0 3px 0 0 #C85402;
+    box-shadow: 0 3px 0 0 #C85402;
 }
