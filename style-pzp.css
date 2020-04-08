@@ -1,3 +1,12 @@
 div.c-hero__wrapper {
   margin: 0 1rem;
 }
+
+
+.redirect-button {
+  margin-top: 2.5rem;
+}
+
+.redirect-button a {
+  font-size: 18px;
+}
